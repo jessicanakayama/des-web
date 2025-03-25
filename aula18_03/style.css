@@ -54,6 +54,16 @@ body {
     font-family: Arial;
 }
 
+.fundo {
+    background-color: white;
+    background-size: 100% 100%; 
+    background-position: center center; 
+    background-repeat: no-repeat;
+    height: 100vh; 
+    margin: 0; 
+    font-family: Arial;
+}
+
 h1 {
     color: blue;
     margin-left: 15px;
